@@ -1,4 +1,4 @@
-# Projeto TODO LIST com Spring Boot e Testes;
+# Projeto TODO LIST com Spring Boot e Testes
 
 ## Descrição
 
