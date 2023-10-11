@@ -29,7 +29,6 @@ public class Todo {
   @NotBlank
   private String descricao;
   private boolean realizado;
-
   private int prioridade;
 
   public Todo(String nome, String descricao, boolean realizado, int prioridade) {
